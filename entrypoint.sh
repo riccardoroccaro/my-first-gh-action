@@ -1,8 +1,8 @@
 #!/bin/sh -l
 
-echo "Hello $1"
+echo "Hello $INPUT_WHO-TO-GREET-1"
 
-echo "Hello $2"
+echo "Hello $INPUT_WHO-TO-GREET-2"
 
 echo '[EXEC] ls -al'
 ls -al
