@@ -2,6 +2,8 @@
 
 echo "Hello $1"
 
+echo "Hello $2"
+
 echo '[EXEC] ls -al'
 ls -al
 
